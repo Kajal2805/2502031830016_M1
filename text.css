@@ -1,0 +1,19 @@
+#para1{
+    text-align:center;
+}
+p{
+    color:blue;
+}
+
+
+.class1{
+    color:blue;
+}
+.class2{
+    text-align:center;
+}
+
+
+p,h1{
+    color:purple;
+}
